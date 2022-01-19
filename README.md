@@ -24,9 +24,8 @@ Sejam Bem vindos ao meu cantinho <3
  <img align="right" alt="fotinha" src="https://cdn.discordapp.com/attachments/838041895354761296/886773626622328862/gifgithub.gif" width="200px" height="200px"> 
 
 <img align="right" width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-
 <img width="100px" height="100px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-
+<img width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
   
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
