@@ -42,9 +42,17 @@ Sejam Bem vindos ao meu cantinho <3
   <hr>
   
 <div>
-
-  <a href="emailto:contatogucorreia2901@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ 
   
+  
+  <a  href="https://www.instagram.com/luis_gustavo2901/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank" align="right">
+   
+    
+    
+ <a href="mailto:contatogucorreia2901@gmail.com/"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" target="_blank" align="left">
+    <div align="center">
+   <a href="https://www.linkedin.com/in/gustavo-correia-2901/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" >
+     </div>
 </div>
   
   
