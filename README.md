@@ -18,15 +18,21 @@ Here are some ideas to get you started:
 
 <h1>
 Sejam Bem vindos ao meu cantinho <3
-</h1>  
+</h1>
+  
+<p> Aluno de Sistemas da informação na Universidade federal de Sergipe </p>
   
 
  <img align="right" alt="fotinha" src="https://cdn.discordapp.com/attachments/838041895354761296/886773626622328862/gifgithub.gif" width="200px" height="200px"> 
-
+  <div class='html'> 
 <img align="right" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 <img width="40px" height="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-<img width="40px" height="40px"  position: relative; top: 100px; left:; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img width="40px" height="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  </div>
   
-  
+  .html{
+  position: relative;
+  top: 100px;
+  }
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
