@@ -25,7 +25,7 @@ Sejam Bem vindos ao meu cantinho <3
 
 <img align="right" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 <img width="40px" height="40px" align="right" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-<img width="40px" height="40px" align="right" position: absolute; top: 40px; left:; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img width="40px" height="40px" align="right" position: relative; top: 100px; left:; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
   
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
