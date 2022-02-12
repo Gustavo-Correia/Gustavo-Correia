@@ -29,14 +29,15 @@ Sejam Bem vindos ao meu cantinho <3
 </div>
   
   
- <img align="right" alt="fotinha" src="https://cdn.discordapp.com/attachments/838041895354761296/886773626622328862/gifgithub.gif" width="170px" height="180px"> 
+ <img align="right" alt="fotinha" src="https://cdn.discordapp.com/attachments/838041895354761296/941862355527147560/GATO.jpg" width="220px" height="220px"> 
   
   
   
   <div align="right">
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img  width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-<img width="50px" height="50px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+<img width="50px' height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
   
   <hr>
