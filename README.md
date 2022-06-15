@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>
-welcome to my profile!
+Welcome to my Profile!
 </h1>
   
 <p> Student of Information Systems at the Federal University of Sergipe </p>
