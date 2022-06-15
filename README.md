@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 Sejam Bem vindos ao meu cantinho <3
 </h1>
   
-<p> Aluno de Sistemas da informação na Universidade federal de Sergipe </p>
-  
+<p> Student of Information Systems at the Federal University of Sergipe </p>
+  <p> Current Objectives: Learn to program Java,JavaScript and ReactNative</p> 
 <div align="center">
   <a href="https://github.com/Gustavo-Correia">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Correia&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
