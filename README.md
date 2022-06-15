@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>
-Sejam Bem vindos ao meu cantinho <3
+welcome to my profile!
 </h1>
   
 <p> Student of Information Systems at the Federal University of Sergipe </p>
