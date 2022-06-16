@@ -38,7 +38,7 @@ Welcome to my Profile!
 <img width="53px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
 <img width="53px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img width="50px' height="45px" border-radius="10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img width="43px' height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   </div>
   
   <hr>
