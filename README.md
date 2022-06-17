@@ -29,7 +29,7 @@ Welcome to my Profile!
 </div>
   
   
- <img align="right" alt="fotinha" src="https://cdn.discordapp.com/attachments/838041895354761296/941862355527147560/GATO.jpg" width="220px" height="220px"> 
+ 
   
   
   
