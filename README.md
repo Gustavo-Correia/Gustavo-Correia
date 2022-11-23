@@ -47,7 +47,7 @@ Welcome to my Profile!
  
   
   
-  <a  href="https://www.instagram.com/luis_gustavo2901/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank" align="right">
+  <a  href="https://www.instagram.com/gustavo_correia2901/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank" align="right">
    
     
     
