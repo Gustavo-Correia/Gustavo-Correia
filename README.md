@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 -->
 
 <h1>
-Welcome to my Profile!
+  Oi Meu nome é Luis Gustavo, estudante de programação na <a href="https://www.ufs.br/">UFS</a> 
 </h1>
   
 <p> Student of Information Systems at the Federal University of Sergipe </p>
 
 <div align="center">
   <a href="https://github.com/Gustavo-Correia">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Correia&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Correia&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Correia&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Correia&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
   
@@ -33,12 +33,14 @@ Welcome to my Profile!
   
   
   
-  <div align="left">
-<img width="53px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-<img width="53px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-<img width="53px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img width="43px' height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <div align="center">
+<img width="53px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+<img width="53px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+<img width="53px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img width="40px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+<img width="53px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img width="53px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   </div>
   
   <hr>
@@ -49,7 +51,7 @@ Welcome to my Profile!
   
   <a  href="https://www.instagram.com/gustavo_correia2901/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank" align="right">
    
-    
+   
     
  <a href="mailto:contatogucorreia2901@gmail.com/"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" target="_blank" align="left">
     <div align="center">
