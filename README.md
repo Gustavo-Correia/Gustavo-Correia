@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 -->
 
 <h1>
-  Oi Meu nome é Luis Gustavo, estudante de programação na <a href="https://www.ufs.br/">UFS</a> 
+  Oi Meu nome é Luis Gustavo, estudante de programação na <a href="https://www.ufs.br/">UFS</a> 😄
 </h1>
   
 <p> Student of Information Systems at the Federal University of Sergipe </p>
+
+<p> Procurando Emprego como Desenvolvedor 📫</p>
 
 <div align="center">
   <a href="https://github.com/Gustavo-Correia">
