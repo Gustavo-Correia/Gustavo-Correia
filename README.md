@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="120px" height="120px" src="https://cdn.discordapp.com/attachments/874659493366104084/1224111753739374662/icon3.png?ex=661c4de8&is=6609d8e8&hm=f9ea76df73ccc5627f853df591f4946150b79b0bc290e344fc971fa2cb3378e0&">
+
+<p align="center">
+  <img width="120px" height="120px" align="center" src="https://cdn.discordapp.com/attachments/874659493366104084/1224111753739374662/icon3.png?ex=661c4de8&is=6609d8e8&hm=f9ea76df73ccc5627f853df591f4946150b79b0bc290e344fc971fa2cb3378e0&">
+</p>
+
 <h2> 
   Oi Meu nome é Luis Gustavo, estudante de programação na <a href="https://www.ufs.br/">UFS 💬</a> 
 </h2>
