@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width="120px" height="120px" align="center" src="https://cdn.discordapp.com/attachments/959504759570722869/1250222899101564968/Sem-Titulo-1.png?ex=666a284f&is=6668d6cf&hm=841aeb12ce4caeaaac9513d8af4c4f4a142964d80f858e9b28d00acb33f9494b&">
+  <img width="100px" height="100px" align="center" src="https://cdn.discordapp.com/attachments/959504759570722869/1250222899101564968/Sem-Titulo-1.png?ex=666a284f&is=6668d6cf&hm=841aeb12ce4caeaaac9513d8af4c4f4a142964d80f858e9b28d00acb33f9494b&">
 </p>
 
 <h2> 
