@@ -24,9 +24,7 @@ Here are some ideas to get you started:
   Oi Meu nome é Luis Gustavo, estudante de programação na <a href="https://www.ufs.br/">UFS 💬</a> 
 </h2>
   
-<p> Student of Information Systems at the Federal University of Sergipe 😄</p>
-
-<p> Procurando Emprego como Desenvolvedor 📫</p>
+<p>Estudante da Universidade Federal de Sergipe em Sistemas de Informação</p>
 
 <div align="center">
   <a href="https://github.com/Gustavo-Correia">
