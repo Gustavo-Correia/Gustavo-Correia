@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 </p>
 
 <h2> 
-  Oi Meu nome é Luis Gustavo, estudante de programação na <a href="https://www.ufs.br/">UFS 💬</a> 
+  Oi Meu nome é Luis Gustavo, <br>Estudante da Universidade Federal de Sergipe em Sistemas de Informação na <a href="https://www.ufs.br/">UFS 💬</a> 
 </h2>
-  
-<p>Estudante da Universidade Federal de Sergipe em Sistemas de Informação</p>
+
 
 <div align="center">
   <a href="https://github.com/Gustavo-Correia">
