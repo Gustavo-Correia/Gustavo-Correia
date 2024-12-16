@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Olá! Meu nome é Gustavo Correia, sou um desenvolvedor Back-End apaixonado por tecnologia e programação.<br><br>🌱 Atualmente, estou aprendendo mais sobre [Aws,Docker,Restapi,Kubernetes e Kotlin] e sempre aberto a novas oportunidades de aprendizado e colaboração.<br>Vamos conectar! 
+Olá! Meu nome é Gustavo Correia, sou um desenvolvedor apaixonado por tecnologia e programação.<br><br>🌱 Atualmente, estou aprendendo mais sobre [Aws,Docker,Restapi,Kubernetes] e sempre aberto a novas oportunidades de aprendizado e colaboração.<br>Vamos conectar! 
 
 📚 Estudante de Sistemas de Informação na Universidade Federal de Sergipe
 
