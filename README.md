@@ -1,6 +1,6 @@
-Olá! Meu nome é Gustavo Correia, sou um desenvolvedor apaixonado por tecnologia e programação.<br><br>🌱 Atualmente, estou aprendendo mais sobre [Aws,Docker,Restapi,Kubernetes] e sempre aberto a novas oportunidades de aprendizado e colaboração.<br>Vamos conectar! 
+Olá! Meu nome é Gustavo Correia, sou um desenvolvedor Full Stack.<br><br>Atualmente, estou aprendendo mais sobre [Aws,Docker,flutter e dart] e sempre aberto a novas oportunidades de aprendizado e colaboração.
 
-📚 Estudante de Sistemas de Informação na Universidade Federal de Sergipe
+Estudante de Sistemas de Informação na Universidade Federal de Sergipe
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-correia-2901/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@GuTsfordevs) 
@@ -24,5 +24,5 @@ Olá! Meu nome é Gustavo Correia, sou um desenvolvedor apaixonado por tecnologi
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Correia&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Correia&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Estatísticas do GitHub">
 </p>
