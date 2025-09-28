@@ -24,5 +24,8 @@ Estudante de Sistemas de Informação na Universidade Federal de Sergipe
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Correia&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Estatísticas do GitHub">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Gustavo-Correia&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&count_private=true" 
+    alt="Estatísticas do GitHub"
+  />
 </p>
